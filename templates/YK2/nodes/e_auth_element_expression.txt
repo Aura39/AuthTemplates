@@ -1,0 +1,7 @@
+YK2 e_auth_element_expression Expression 150
+
+int32 expression_id
+int32 blend
+int32 is_add_motion
+int32 flag
+animationcurve animation_curve 256

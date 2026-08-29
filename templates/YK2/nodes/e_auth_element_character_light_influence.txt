@@ -1,0 +1,8 @@
+YK2 e_auth_element_character_light_influence LightInfluence 144
+
+uint32 InfluenceType
+float InfluenceRate
+uint32 R
+uint32 G
+uint32 B
+float AlbedoSaturation

@@ -1,0 +1,7 @@
+YK2 e_auth_element_sound_amb SoundAmb 248
+
+uint32 Unknown
+ushort Amb1_CueID
+ushort Amb1_CuesheetID
+ushort Amb2_CueID
+ushort Amb2_CuesheetID

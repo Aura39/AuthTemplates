@@ -1,0 +1,6 @@
+YK2 e_auth_element_camera_fnumber CameraFNumber 64
+
+float F_Number
+uint32 Flags
+float Near_Focus_Distance
+float Far_Focus_Distance

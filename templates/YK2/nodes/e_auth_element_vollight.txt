@@ -1,0 +1,11 @@
+YK2 e_auth_element_vollight Vollight 27
+
+uint32 is_shadow     
+uint32 is_fluctuation
+uint32 sampling_count
+uint32 is_interleaved
+float eccentricity  
+float density_scale 
+uint32 padding1
+uint32 padding2
+uint32 padding3

@@ -1,0 +1,8 @@
+YK2 e_auth_element_hand_shadow Hand_Shadow 176
+
+uint32 left
+uint32 right
+uint32 receive_stage
+uint32 receive_chara
+uint32 receive_asset
+float shadow_deep

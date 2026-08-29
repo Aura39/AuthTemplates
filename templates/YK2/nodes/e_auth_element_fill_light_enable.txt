@@ -1,0 +1,31 @@
+YK2 e_auth_element_fill_light_enable FillLightEnable 106
+
+uint32 key_modify_enable
+uint32 rim_modify_enable
+uint32 fill_modify_enable
+float key_rotate_x
+float key_rotate_y
+uint32 key_color_r
+uint32 key_color_g
+uint32 key_color_b
+uint32 key_kelvin
+float key_luminance
+float rim_rotate_x
+float rim_rotate_y
+uint32 rim_color_r
+uint32 rim_color_g
+uint32 rim_color_b
+uint32 rim_kelvin
+float rim_luminance
+float fill_rotate_x
+float fill_rotate_y
+uint32 fill_color_r
+uint32 fill_color_g
+uint32 fill_color_b
+uint32 fill_kelvin
+float fill_luminance
+uint32 default_reverse
+uint32 unk1
+uint32 unk2
+uint32 unk3
+fanimationcurve animation_curve 32

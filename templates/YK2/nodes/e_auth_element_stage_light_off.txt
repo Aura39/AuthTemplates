@@ -1,0 +1,13 @@
+YK2 e_auth_element_stage_light_off StageLightOff 142
+
+int64 uid1
+int64 uid2
+int64 uid3
+int64 uid4
+int64 uid5
+int64 uid6
+int64 uid7
+int64 uid8
+int32 chara_flag
+int32 stage_flag
+int32 asset_flag

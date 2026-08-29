@@ -1,0 +1,5 @@
+YK2 e_auth_element_post_effect_motion_blur_ratio Post_Effect_Motion_Blur_Ratio 49
+
+float ratio
+uint32 node_type
+uint32 padding

@@ -1,0 +1,10 @@
+YK2 e_auth_element_shadow_register Shadow_Register 18
+
+uint32 range_index
+float scale_x
+float scale_y
+float scale_z
+float offset_x
+float offset_y
+float offset_z
+uint32 is_follow_pos

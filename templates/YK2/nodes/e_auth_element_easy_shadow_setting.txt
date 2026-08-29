@@ -1,0 +1,18 @@
+YK2 e_auth_element_easy_shadow_setting EasyShadowSetting 245
+
+int32 focus_type
+float focus_scale
+float radius_minimum
+uint32 shadow_type
+float shadow_depth
+float vec_x
+float vec_y
+float vec_z
+float chara_fake_shadow_depth
+float chara_fake_shadow_bokeh
+float asset_fake_shadow_depth
+float asset_fake_shadow_bokeh
+float shadow_blur_depth_correction
+uint32 flag
+float shadow_range_near
+float shadow_range_far_offset

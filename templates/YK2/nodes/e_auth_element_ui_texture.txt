@@ -1,0 +1,5 @@
+YK2 e_auth_element_ui_texture UI_Texture 53
+
+uint32 Flags
+uint32 Flags
+uint32 padding

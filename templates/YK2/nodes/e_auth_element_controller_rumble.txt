@@ -1,0 +1,6 @@
+YK2 e_auth_element_controller_rumble Controller_Rumble 68
+
+uint32 pattern_id
+animationcurve anim_large_motor 32
+animationcurve anim_small_motor 32
+uint32 is_finish_with_element

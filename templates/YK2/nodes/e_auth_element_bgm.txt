@@ -1,0 +1,10 @@
+YK2 e_auth_element_bgm BGM_Request 55
+
+uint32 Version
+uint32 slot_id
+ushort CueID
+ushort CuesheetID
+uint32 is_stop
+float fade_in_sec
+float fade_out_sec
+uint32 is_stop_on_skip

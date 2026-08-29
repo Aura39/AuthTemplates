@@ -1,0 +1,27 @@
+YK2 e_auth_element_fall_rain FallRain 278
+
+uint32 unused
+uint32 unused2
+uint32 unused3
+float flowmap_size
+float flowmap_shift_spd_x
+float flowmap_shift_spd_y
+float flowmap_shift_spd_z
+float flow_spd
+float gflow_spd_x
+float gflow_spd_y
+float gflow_spd_z
+uint32 ptcl_dispatch_num
+float radius0
+float radius1
+float proj_radius
+float alpha
+float color_r
+float color_g
+float color_b
+float reflect_intensity
+float refract_intensity
+float fade_range
+uint32 ptcl_dispatch_unit
+uint32 roof_mask
+float intensity_ceil

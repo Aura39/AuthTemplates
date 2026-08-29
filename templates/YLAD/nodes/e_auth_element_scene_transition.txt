@@ -1,0 +1,5 @@
+YLAD e_auth_element_scene_transition Scene_Transition 162
+
+fixedstring category 32
+fixedstring timeline 32
+int32 exit_condition

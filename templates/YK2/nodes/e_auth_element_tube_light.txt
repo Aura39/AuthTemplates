@@ -1,0 +1,20 @@
+YK2 e_auth_element_tube_light Tube_Light 47
+
+float position_X
+float position_Y
+float position_Z
+rgb32 color
+int32 kelvin
+float luminance
+float radius
+float range
+float theta
+float phi
+float length
+float target_pos_x
+float target_pos_y
+float target_pos_z
+int flag
+fanimationcurve animation_curve 32
+float dark_light_ratio
+float z_tilt

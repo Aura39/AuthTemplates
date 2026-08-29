@@ -1,0 +1,11 @@
+YK2 e_auth_element_camera_setting Camera_Setting 65
+
+int32 Shutter_speed
+int32 ISO_sensitivity
+float exposure_fnumber
+uint32 enable_exposure_fnumber
+float sensor_size
+uint32 white_balance
+float exposure_fnumber_after
+uint32 ISO_sensitivity_after
+fanimationcurve animation_curve 32

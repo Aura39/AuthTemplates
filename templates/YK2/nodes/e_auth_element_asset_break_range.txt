@@ -1,0 +1,19 @@
+YK2 e_auth_element_asset_break_range Asset_Break_Range 114
+
+uint32 version
+uint32 type
+float blast
+float center_x
+float center_y
+float center_z
+float extent_x
+float extent_y
+float extent_z
+float auglur_x
+float auglur_y
+float auglur_z
+uint32 dir_mode
+float dir_auglur_x
+float dir_auglur_y
+float dir_auglur_z
+uint32 auth_break

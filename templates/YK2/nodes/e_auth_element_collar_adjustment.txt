@@ -1,0 +1,14 @@
+YK2 e_auth_element_collar_adjustment Collar_Adjustment 281
+
+float pos_x_left
+float pos_y_left
+float pos_z_left
+float rot_x_left
+float rot_y_left
+float rot_z_left
+float pos_x_right
+float pos_y_right
+float pos_z_right
+float rot_x_right
+float rot_y_right
+float rot_z_right

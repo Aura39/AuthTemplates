@@ -1,0 +1,29 @@
+YK2 e_auth_element_post_effect_glare2 PostEffectGlare2 322
+
+uint32 enable_star_streaks
+uint32 enable_scatter
+uint32 enable_lens_flare
+uint32 enable_anamorphic_lens
+uint32 enable_screen_lens_ghost
+float scatter_luminance_threshold
+float lens_flare_luminance_threshold
+uint32 aperture_blades
+float star_streaks_length
+float star_streaks_chromatic_aberration
+float star_streaks_power
+uint32 star_streaks_buffer_reso
+float star_streaks_rotate
+float scatter_sigma 
+float scatter_power 
+uint32 scatter_radius
+float lens_flare_scale
+float lens_flare_power
+float lens_flare_atten
+float ghost_power   
+float ghost_power_after
+float scatter_sigma_after
+float scatter_power_after
+float scatter_luminance_threshold_after
+fanimationcurve anim_data 32
+fanimationcurve _anim_data_scatter 32
+fanimationcurve _anim_data_threshold 	32

@@ -1,0 +1,7 @@
+YK2 e_auth_element_volume_preset VolumePreset 111
+
+uint32 VolumePresetID
+uint32 ReverbPresetID
+uint32 HcfPresetID
+uint32 LcfPresetID
+uint32 Is_Always

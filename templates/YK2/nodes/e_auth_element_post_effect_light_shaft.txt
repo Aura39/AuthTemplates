@@ -1,0 +1,23 @@
+YK2 e_auth_element_post_effect_light_shaft PostEffectLightShaft 34
+
+float _shaft_intensity
+float _shaft_length
+float _shaft_noise_mask_ratio
+float _shaft_noise_mask_frequency
+float _shaft_alpha
+uint32 _shaft_color_r
+uint32 _shaft_color_g
+uint32 _shaft_color_b
+float _pos_x
+float _pos_y
+float _pos_z
+float _shaft_fade_start
+float _shaft_fade_length
+uint32 _enable_parent_node
+uint32 _enable_hi_mode
+uint32 _enable_work_x4
+uint32 padding1
+uint32 padding2
+uint32 padding3
+uint32 padding4
+fanimationcurve anim_data 32

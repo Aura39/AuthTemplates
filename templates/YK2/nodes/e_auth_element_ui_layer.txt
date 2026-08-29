@@ -1,0 +1,10 @@
+YK2 e_auth_element_ui_layer UI_Layer 52
+
+uint32 Flag
+float anim_in_frame
+float anim_out_frame
+float idk
+fanimationcurve animation_curve 32
+uint32 SceneID
+uint32 LayerID
+uint32 AnimationID

@@ -1,0 +1,30 @@
+YK2 e_auth_element_vollight_spot VollightSpot 28
+
+float pos_x
+float pos_y
+float pos_z
+float rot_x_0
+float rot_y_0
+float rot_z_0
+uint32 color_r_0
+uint32 color_g_0
+uint32 color_b_0
+uint32 kelvin_0
+float luminance_0
+float radius_0
+float outer_cone_0
+float rot_x_1
+float rot_y_1
+float rot_z_1
+uint32 color_r_1
+uint32 color_g_1
+uint32 color_b_1
+uint32 kelvin_1
+float luminance_1
+float radius_1
+float outer_cone_1
+uint32 radius_control
+animationcurve anim_radius 32
+animationcurve anim_rot 32
+animationcurve anim_outer_cone 32
+animationcurve anim_color 32

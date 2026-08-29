@@ -1,0 +1,5 @@
+YK2 e_auth_element_volume_preset_add VolumePresetAdd 249
+
+uint32 Is_Always
+uint32 VolumePresetID
+uint32 Unknown

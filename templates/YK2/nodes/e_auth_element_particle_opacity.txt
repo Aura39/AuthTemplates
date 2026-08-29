@@ -1,0 +1,7 @@
+YK2 e_auth_element_particle_opacity ParticleOpacity 21
+
+uint32 ptc_id
+float opacity
+float in_frame
+float out_frame
+animationcurve anim 32

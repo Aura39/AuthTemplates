@@ -1,0 +1,14 @@
+YK2 e_auth_element_point_light Point_Light 16
+
+float _pos_x
+float _pos_y
+float _pos_z
+rgb32 color
+uint32 kelvin
+float luminance
+float radius
+float range
+int32 is_dark_light
+int32 flags
+fanimationcurve animation_curve 32
+float dark_light_ratio

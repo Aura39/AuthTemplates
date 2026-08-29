@@ -1,0 +1,6 @@
+YK2 e_auth_element_asset_hide Asset_Hide 136
+
+float radius
+uint32 padding1
+uint32 padding2
+uint32 padding3

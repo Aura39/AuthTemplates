@@ -1,0 +1,4 @@
+YK2 e_auth_element_sound_arm_label Sound_Arm_Label 250
+
+uint32 Version
+uint32 Label

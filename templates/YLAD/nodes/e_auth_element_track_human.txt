@@ -1,0 +1,44 @@
+YLAD e_auth_element_track_human Track_Human 70
+
+fixedstring Bone_Name_1 32
+float offset_x1
+float offset_y1
+float offset_z1
+fixedstring Bone_Name_2 32
+float offset_x2
+float offset_y2
+float offset_z2
+fixedstring Bone_Name_3 32
+float offset_x3
+float offset_y3
+float offset_z3
+fixedstring Bone_Name_4 32
+float offset_x4
+float offset_y4
+float offset_z4
+byte color0_r
+byte color0_g
+byte color0_b
+byte color0_a
+byte color1_r
+byte color1_g
+byte color1_b
+byte color1_a
+float scale0
+float scale1
+uint32 alpha_dec
+uint32 tex_id
+uint32 u_add
+uint32 v_add
+float ref_scale
+uint32 ref_texid
+uint32 tip_texid
+float glare_scale
+uint32 support
+uint32 is_hand_left
+uint32 priority
+uint32 group_id
+uint32 padding1
+uint32 padding2
+uint32 padding3
+uint32 padding4

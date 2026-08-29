@@ -1,0 +1,29 @@
+YLAD e_auth_element_track_asset Track_Asset 83
+
+uint32 track_type
+byte color0_r
+byte color0_g
+byte color0_b
+byte color0_a
+byte color1_r
+byte color1_g
+byte color1_b
+byte color1_a
+float scale0
+float scale1
+uint32 alpha_dec
+uint32 tex_id
+uint32 u_add
+uint32 v_add
+float ref_scale
+uint32 ref_texid
+uint32 tip_texid
+float glare_scale
+uint32 support
+uint32 is_hand_left
+uint32 priority
+uint32 group_id
+uint32 padding1
+uint32 padding2
+uint32 padding3
+uint32 padding4

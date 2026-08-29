@@ -1,0 +1,6 @@
+YK2 e_auth_element_bounding_box_adjustment Bounding_Box_Adjustment 277
+
+float size_x
+float size_y
+float size_z
+uint32 padding

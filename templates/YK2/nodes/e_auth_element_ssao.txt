@@ -1,0 +1,5 @@
+YK2 e_auth_element_ssao SSAO 59
+
+float ratio
+int64 padding
+int32 padding2

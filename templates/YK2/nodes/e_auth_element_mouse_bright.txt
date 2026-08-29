@@ -1,0 +1,3 @@
+YK2 e_auth_element_mouse_bright Mouth_Bright 92
+
+float bright

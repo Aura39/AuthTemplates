@@ -1,0 +1,29 @@
+YK2 e_auth_element_cloth_control Cloth_Control 69
+
+uint32 hair_enable
+uint32 hair_type_a
+uint32 hair_type_b
+float hair_ratio
+uint32 suso_enable
+uint32 suso_type_a
+uint32 suso_type_b
+float suso_ratio
+uint32 sode_r_enable
+uint32 sode_r_type_a
+uint32 sode_r_type_b
+float sode_r_ratio
+uint32 sode_l_enable
+uint32 sode_l_type_a
+uint32 sode_l_type_b
+float sode_l_ratio
+uint32 ashi_r_enable
+uint32 ashi_r_type_a
+uint32 ashi_r_type_b
+float ashi_r_ratio
+uint32 ashi_l_enable
+uint32 ashi_l_type_a
+uint32 ashi_l_type_b
+float ashi_l_ratio
+uint32 use_curve
+uint32 flags
+fanimationcurve anim_data 32

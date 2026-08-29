@@ -1,0 +1,6 @@
+YK2 e_auth_element_scene_connect SceneConnect 226
+
+uint32 type
+uint32 talk_id
+uint32 is_multi_connect
+uint32 padding
