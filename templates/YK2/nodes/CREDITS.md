@@ -25,6 +25,7 @@
 |e_auth_element_mouse_bright|kami|
 |e_auth_element_particle_opacity|kami|
 |e_auth_element_point_light|kami|
+|e_auth_element_post_effect_glare|kami|
 |e_auth_element_post_effect_glare2|kami|
 |e_auth_element_post_effect_light_shaft|kami|
 |e_auth_element_post_effect_motion_blur_ratio|kami|

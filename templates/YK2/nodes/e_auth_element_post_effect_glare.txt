@@ -1,0 +1,29 @@
+YK2 e_auth_element_post_effect_glare PostEffectGlare1 70
+
+uint32 _glare_type
+float _glare_luminance 
+float _luminance_threshold
+float _remap_factor  
+uint32 _anamorphic_lens_flare_enable
+float _ghost_luminance
+float _ghost_halo_luminance
+float _ghost_distortion
+uint32 _ghost_sharpness
+float _bloom_luminance
+float _bloom_dispersion
+uint32 _bloom_dispersion_level
+float _anamorphic_lens_luminance
+float _anamorphic_lens_ghost_luminance
+uint32 _glare_quality 
+uint32 _glare_star_streaks
+uint32 _glare_streaks_length_enable
+float _glare_streaks_length
+uint32 _change_ghost_type
+float _bloom_gamma   
+float _bloom_scale   
+float _bloom_filter_threshold
+float _luminance_threshold_after
+float _bloom_luminance_after
+float _luminance_after
+float _anamorphic_lens_length
+fanimationcurve _anim_data 32
