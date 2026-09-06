@@ -1,0 +1,7 @@
+YK2 e_auth_element_posture Posture 151
+
+uint32 character_npc_deform_kind_id
+uint32 flag
+uint32 padding1
+uint32 padding2
+fanimationcurve anim 32

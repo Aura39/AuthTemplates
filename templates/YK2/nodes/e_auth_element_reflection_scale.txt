@@ -1,0 +1,3 @@
+YK2 e_auth_element_reflection_scale Reflection_Scale 122
+
+fanimationcurve anim_data 32

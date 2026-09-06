@@ -1,0 +1,3 @@
+YK2 e_auth_element_skip_enable Skip_Enable 240
+
+uint32 flag

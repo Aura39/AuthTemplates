@@ -1,0 +1,3 @@
+YK2 e_auth_element_post_effect_diaphragm_rot Post_Effect_Diaphragm_Rot 9 
+
+fanimationcurve diaphragm_rot_data 32

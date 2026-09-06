@@ -1,0 +1,19 @@
+YK2 e_auth_element_post_effect_rgb_blur Post_Effect_RGB_Blur 37
+
+float center_u
+float center_v
+float vec_scale_r
+float vec_scale_g
+float vec_scale_b
+float alpha
+float fade_start
+float_fade_length
+uint32 fade_reverse
+float padding1
+float padding2
+float padding3
+float padding4
+float padding5
+float padding6
+float padding7
+fanimationcurve anim 32

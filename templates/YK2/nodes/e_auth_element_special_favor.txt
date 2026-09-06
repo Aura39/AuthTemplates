@@ -1,0 +1,3 @@
+YK2 e_auth_element_special_favor Special_Favor 230
+
+uint32 special_favor_id

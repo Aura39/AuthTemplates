@@ -1,0 +1,3 @@
+YK2 e_auth_element_shogi_taikyoku_select Shogi_Taikyoku_Select 290
+
+uint32 menu_type

@@ -1,0 +1,6 @@
+YK2 e_auth_element_post_effect_motion_blur_ratio_parts Post_Effect_Motion_Blur_Ratio_Parts 105
+
+uint32 version
+uint32 curve_weight_ofs
+float scale
+uint32 parts_mask

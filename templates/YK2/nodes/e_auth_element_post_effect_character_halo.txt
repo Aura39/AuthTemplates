@@ -1,0 +1,10 @@
+YK2 e_auth_element_post_effect_character_halo Post_Effect_Character_Halo 286
+
+float blur_scale
+float intensity
+float power
+float padding1
+float padding2
+float padding3
+float padding4
+float padding5

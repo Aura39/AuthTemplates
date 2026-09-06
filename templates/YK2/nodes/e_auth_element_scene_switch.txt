@@ -1,0 +1,4 @@
+YK2 e_auth_element_scene_switch Scene_Switch 195
+
+uint32 config_id
+uint32 return_pos

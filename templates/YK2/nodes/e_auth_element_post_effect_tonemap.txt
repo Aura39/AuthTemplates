@@ -1,0 +1,5 @@
+YK2 e_auth_element_post_effect_tonemap Post_Effect_Tonemap 57
+
+uint32 flag_enable_auto_exposure
+float exposure_correction
+float gamma

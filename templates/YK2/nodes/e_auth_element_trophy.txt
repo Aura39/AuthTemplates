@@ -1,0 +1,3 @@
+YK2 e_auth_element_trophy Trophy 199
+
+uint32 trophy_id

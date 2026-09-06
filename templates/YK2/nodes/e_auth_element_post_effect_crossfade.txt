@@ -1,0 +1,6 @@
+YK2 e_auth_element_post_effect_crossfade Post_Effect_Crossfade 66
+
+int32 is_ignore_bezier
+uint32 in_frame
+uint32 out_frame
+fanimationcurve anim 32

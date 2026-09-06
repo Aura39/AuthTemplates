@@ -1,0 +1,6 @@
+YK2 e_auth_element_qsearch QSearch 264
+
+uint32 qsearch_type
+uint32 search_id
+uint32 padding1
+uint32 padding2
