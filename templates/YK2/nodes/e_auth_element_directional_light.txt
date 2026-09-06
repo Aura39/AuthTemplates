@@ -7,6 +7,3 @@ rgb32 color
 uint32 kelvin
 float luminance
 int32 flags
-float _rotate_y
-fanimationcurve animation_curve 256
-float dark_light_ratio
